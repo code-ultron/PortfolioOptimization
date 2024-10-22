@@ -38,8 +38,7 @@ The historical stock data with the newly predicted data is saved as combined_sto
 ## How to Use
 
 1. First run the python app.py to run the Flask App
-2. 
-3. Open the second terminal and run python request.py to send the POST request to API hosted on the local
+2. Open the second terminal and run python request.py to send the POST request to the API hosted on the local
 
 ## Results
 
