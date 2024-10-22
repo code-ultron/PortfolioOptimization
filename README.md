@@ -19,7 +19,7 @@ The historical stock data with the newly predicted data is saved as combined_sto
 - **Optimal Portfolio Identification**: Selects the optimal portfolio weights based on the highest Sharpe ratio, maximizing return for a given level of risk.
 
 
-## Predicting future stock prices using LSTM enhances Monte Carlo portfolio optimization by incorporating anticipated market trends into expected returns and volatility calculations. This forward-looking approach results in more accurate simulations, aligning portfolio allocation with potential future market conditions for optimized returns and risk management.
+# Predicting future stock prices using LSTM enhances Monte Carlo portfolio optimization by incorporating anticipated market trends into expected returns and volatility calculations. This forward-looking approach results in more accurate simulations, aligning portfolio allocation with potential future market conditions for optimized returns and risk management.
 
 ## Project Structure
 
@@ -38,8 +38,8 @@ The historical stock data with the newly predicted data is saved as combined_sto
 ## How to Use
 
 1. First run the python app.py to run the Flask App
-
-2.Open second terminal to and run python request.py to send the POST request to API hosted on local
+2. 
+3. Open the second terminal and run python request.py to send the POST request to API hosted on the local
 
 ## Results
 
